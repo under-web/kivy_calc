@@ -1,2 +1,2 @@
-# kivy_calc
-simple calc
+# Android App calc
+Необходимо скомпелировать приложение через buildozer
